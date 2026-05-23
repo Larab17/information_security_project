@@ -130,9 +130,3 @@ The response includes:
 - `app.py` — the Flask app and scanning logic
 - `templates/index.html` — the web interface
 - `README.md` — this guide
-
-## Note
-
-- This project is a demo tool for learning and testing.
-- It is not a full production security scanner.
-- If you want, I can also add a `requirements.txt` file to make setup easier.
