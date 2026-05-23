@@ -2,6 +2,15 @@
 
 SecureScan Pro is a simple Flask web app that helps you find common security issues in code and files.
 
+<img width="1904" height="914" alt="image" src="https://github.com/user-attachments/assets/2b9bc2f1-a8e3-48be-856c-5673530ba913" />
+
+<img width="1894" height="909" alt="image" src="https://github.com/user-attachments/assets/bf936aa2-e838-46af-80d9-b1c78832d624" />
+
+<img width="1898" height="881" alt="image" src="https://github.com/user-attachments/assets/33618c3d-dd41-4de5-844d-22c98dbb3feb" />
+
+
+
+
 ## What it does
 
 - Scan uploaded files or pasted code
