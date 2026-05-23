@@ -1,4 +1,4 @@
-# SecureScan Pro — Easy Code Security Scanner
+# SecureScan Pro — Code Security Scanner
 
 SecureScan Pro is a simple Flask web app that helps you find common security issues in code and files.
 
